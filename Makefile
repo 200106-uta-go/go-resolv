@@ -5,3 +5,5 @@ hello:
 
 run: hello
 	go run main.go
+
+all: run
